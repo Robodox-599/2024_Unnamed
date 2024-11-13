@@ -3,10 +3,10 @@
 ## Overview
 The Robodox 599 Robot is a Timed Robot with the following subsystems: 
 - Drive: processing controller commands into motor movement
-- Intake: 
-- Indexer: a convyer belt like mechanism to move objects to the shooter
+- Intake: wristed rollers that help pick up game pieces
+- Indexer: a conveyer belt like mechanism to move game pieces to the shooter
 - Shooter: angling the mechanism to shoot objects to fullfill mission criteria
-- Vision: cameras that help read [AprilTags](https://april.eecs.umich.edu/software/apriltag) and..
+- Vision: cameras that help read [AprilTags](https://april.eecs.umich.edu/software/apriltag) 
 
 In addition to robot code the team utulizes the following software tools: 
 - [Advantage Kit](https://docs.advantagekit.org/) for robot testing and drive practice via simulation
@@ -22,3 +22,6 @@ In addition to robot code the team utulizes the following software tools:
 - Create a branch based on the subsystem you are contributing to
 - Modify code, commit, and push
 - Create a pull request
+
+## 599 Programming Team
+<!-- Add your name below this comment -->
